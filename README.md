@@ -3,7 +3,7 @@
 🔭 Computer Science and Business Systems student at Govt. Model Engineering College under Kerala Technological University  
 🌱 I create full-stack websites to stay consistent and improve my development skills  
 🎮 Passionate about game development and web development
-💻 I work with Java, Python, C++, Spring Boot, MySQL, Unreal Engine, and Unity   
+💻 I work with Java, Python, C++, Spring Boot, MySQL, Unreal Engine  
 📚 Practicing DSA and problem-solving on LeetCode  
 🛠️ Interested in building scalable, interactive, and intuitive tech solutions
 
